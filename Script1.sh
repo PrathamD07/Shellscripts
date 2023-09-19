@@ -9,4 +9,4 @@ echo "We are creating merge conflict"
 echo "we trying to do new"
 echo "its my first  merge-conflict"
 echo "I hope you are doing good"
-
+echo "lets travel to lonavala on this weekend"
